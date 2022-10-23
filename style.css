@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    background: #141414;
+}
+
+.titulo{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 150px;
+    margin: 20px;
+}
+
+
+.avatares {
+    color: gray;
+    display: flex;
+    justify-content:center;
+    list-style: none;
+    text-align: center;
+    font-size: x-large;
+    
+}
+
+.perfil > button{
+    color: rgb(100, 85, 85);
+    width: 10%;
+    height: 40px;
+    cursor: pointer;
+    margin-left: 45%;
+    margin-top: 20px;
+
+}
+
+button{
+    
+    color: #141414;
+}
+
+button:hover{
+    border-color: rgb(217, 226, 233);
+}
